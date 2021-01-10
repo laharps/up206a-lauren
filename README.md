@@ -2,7 +2,7 @@
 ## Basics
 Lauren Harper (she/her) <br>
 Master of Urban Planning student at UCLA <br>
-Community Economic Development and Housing Concentration <br>
+*Community Economic Development and Housing* <br>
 
 ## Interests
 data for social change <br>
