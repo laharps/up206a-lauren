@@ -1,0 +1,9 @@
+# Week 1: Reading Assignment
+
+*The changing categories the US Census has used to measure race* <br>
+https://www.pewresearch.org/fact-tank/2020/02/25/the-changing-categories-the-u-s-has-used-to-measure-race/
+
+<p> This article traces the history of the race question on the US Census and how the question reflects changing conceptions of race over time. Before 1960, census respondents were not allowed to provide their own answer to the race question -- rather, the census worker filled in the question. The census race question was influenced by racist ideologies such as the "one drop" rule for black respondents and only slowly began adding categories for Indigenous, Asian, and Hispanic groups. Since 2000, the question has become more descriptive, allowing respondents to indicate multiple races and to write-in further information about their national origins. </p>
+
+<p> Data about race is vital to understand how race shapes society. However, simply taking the "race" attribute from a survey sample, particularly the US Census,
+may not provide the whole story. As this article has shown, the manner in which data on race is collected reflects prevailing societal understandings of race and can erase groups from the dataset. Census data from the early 1900s cannot be used to study different Asian populations in the United States, because the Census only had "Chinese" and "Other" as options. While the most recent US Census has taken steps to collect more detailed information about race, there are many other data sources that only offer "Black", "White", "Hispanic", and "Other." What information is lost in the "Other" category? What is ellided by using such broad racial categories? As I dive into data analysis, I want to focus on the spatialization of race. However, I must remain conscious of what information is missing or is misrepresented by narrow categories of race. </p>
