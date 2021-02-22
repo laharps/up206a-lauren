@@ -9,3 +9,4 @@ Questions:
 * How big was this dataset? Did you use supercomputers to run this analysis? 
 * How did you determine the best way to present the data? 
 * What other analysis do you see possible with these data sources?
+* In addition to the necessary technical analysis, what other theoretical backgrounds undergird your work, particularly in choosing to define countries as "low-income" vs. "high-income" and speculating on policy remedies for the future? 
